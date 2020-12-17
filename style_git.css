@@ -1,6 +1,19 @@
 .container{
-	position:center;
-	background-color:grey;
-	width:500px;
+	position:absolute;
+	width:600px;
 	height:500px;
+	left:660px;
+	top:290px;
+	background:#2c2c2c;
+	box-shadow:8px 8px 12px #584f4f;
+	border-radius:8px;
+}
+
+.bro{
+	display:flex;
+	justify-content:center;
+	margin:222px 148px 223px 147px;
+	position:relative;
+	font:normal normal 47px/55px Roboto;
+	color:#ffffff;
 }
